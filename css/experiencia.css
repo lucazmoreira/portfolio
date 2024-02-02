@@ -48,6 +48,16 @@
   border-color: #2037af;
 }
 
+.acesso-projetos {
+  display: flex;
+  align-items: center;
+}
+
+.texto-projetos {
+  display: flex;
+  gap: 1rem;
+}
+
 .empresa::before {
   content: "";
   display: block;
@@ -77,12 +87,27 @@
 
 .link-projeto {
   text-decoration: none;
-  color: #141414;
+  color: #f5f5f5;
+  display: flex;
+  gap: 20px;
+}
+
+.acesso-projetos {
+  border: solid 2px #2037af;
+  padding: 8px;
+  border-radius: 6px;
+  background: #2c63ce;
+  gap: 8px;
+}
+
+.acesso-projetos:hover {
+  background: #f5f5f5;
+  transition: ease 0.8s;
 }
 
 a:hover {
   color: #2037af;
-  transition: ease-in-out 0.4s;
+  transition: ease-in-out 0.05s;
 }
 
 .empresa-texto {

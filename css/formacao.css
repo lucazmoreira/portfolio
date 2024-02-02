@@ -102,6 +102,11 @@
   color: #fff;
 }
 
+.formacao-extra .idiomas .detalhe-barra {
+  color: #2037af;
+  font-weight: bold;
+}
+
 .formacao-extra h3 {
   font-size: 0.875rem;
   line-height: 1.4;
