@@ -29,6 +29,7 @@
 
 .footer-contato a {
   color: #fff;
+  text-decoration: none;
 }
 
 .footer-contato a:hover {
