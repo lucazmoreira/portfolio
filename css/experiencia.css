@@ -20,7 +20,7 @@
 }
 
 .experiencia-texto {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 1.33;
   max-width: 60ch;
   margin-bottom: 60px;
@@ -80,7 +80,7 @@
 }
 
 .empresa-titulo {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   line-height: 1.1;
   font-weight: bold;
 }
@@ -111,7 +111,7 @@ a:hover {
 }
 
 .empresa-texto {
-  font-size: 0.875rem;
+  font-size: 1rem;
   line-height: 1.4;
   color: #525252;
 }
@@ -124,10 +124,10 @@ a:hover {
 }
 
 .empresa-habilidades li {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.4;
   border-radius: 4px;
-  background: #fff;
+  background: #ebebeb;
   padding: 5px 10px;
 }
 
